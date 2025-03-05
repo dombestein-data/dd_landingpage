@@ -29,6 +29,9 @@ export const TenantInfo = () => {
               <br />
               <p><b>I've signed up for an account, but don't see my company in my list / have access to completely different company</b></p>
               <p>Although this should never happen, there's a slight chance something got messed up when your information was stored on our end. Please have your supervisor / HR-department / IT-department reach out to us for further investigagion.</p>
+              <br />
+              <p><b>My company has set up several tenants for us in Velox, How do I gain access to them all instead of just one?</b></p>
+              <p>We're working on allowing users to request access to multiple tenants, but haven't been able to work out all the bugs for this. For now, have your manager or IT/HR-department reach out to us with your user ID and the tenant ID(s) you need access to, and we'll manually add your account.</p>
           </main>
           </div>  
         {/* Shadow effect */}
