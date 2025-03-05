@@ -1,13 +1,14 @@
-import { Footer } from "./components/Footer";
-import { Hero } from "./components/Hero";
+import LandingPage from './LandingPage';
+import Tenant from './Tenant';
 import "./App.css";
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <>
-      <Hero />
-      <Footer />
-    </>
+    <Routes>
+      <Route path="/" element={<LandingPage />} />
+      <Route path="/veloxTenant" element={<Tenant />} />
+    </Routes>
   );
 }
 
