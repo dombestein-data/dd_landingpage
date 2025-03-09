@@ -21,6 +21,9 @@ export const TenantInfo = () => {
               <br />
               <h1 className="inline bg-gradient-to-r from-[#F596D3]  to-[#D247BF] text-transparent bg-clip-text"><b>FAQ</b></h1>
               <br/>
+              <p><b>How do I set up Velox on self-hosted infrastructure?</b></p>
+              <p>For now, we 're only offering Velox through Velox Cloud, our cloud-hosted solution. This to allow for proper testing during the developmental phase and initial alpha and beta tests. Velox SelfHost is planned to be released only after we see satisfactory results in performance and service stability on our backend.</p>
+              <br/>
               <p><b>I'm registering for an account with my company, what Tenant ID should I use?</b></p>
               <p>Your company's IT or HR department should have provided you with a Tenant ID when requesting you to create an account on Velox. If you have not received this, please contact your nearest leader, or your company's HR or IT department.</p>
               <br />
