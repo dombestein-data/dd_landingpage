@@ -49,6 +49,9 @@ export const AzureNAA = () => {
                 <li><strong>(3)</strong> <i>givem_name (first name)</i></li>
               </ul>
               <br />
+              <p><b>Does this also affect personal @outlook.com and @hotmail.com accounts?</b></p>
+              <p>No. Personal Microsoft Accounts should not receive this error. If you're trying to sign in with a personal account and receive this error, please reach out to <a href="mailto:isak@dombesteindata.net">isak@dombesteindata.net</a> and we'll help you troubleshoot.</p>
+              <br />
               <p><b>What data is Focaline getting from my Microsoft account?</b></p>
               <p>The only data we collect about you from your Microsoft account is your email, as well as your first and last name. We do not collect any sensitive information stored on your account, and can not read your emails or other events without you granting further explicit permission to do so. All data is processed in accordance with local data regulations as explained in our Privacy Policy.</p>
               <br />
