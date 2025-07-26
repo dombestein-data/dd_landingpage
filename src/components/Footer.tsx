@@ -11,7 +11,7 @@ export const Footer = () => {
 
       <section className="container pb-14 text-center">
         <h3>
-          &copy; 2024 Dombestein Data - Page based on a concept by{" "}
+          &copy; 2025 Dombestein Data - Page based on a concept by{" "}
           <a
             rel="noreferrer noopener"
             target="_blank"
