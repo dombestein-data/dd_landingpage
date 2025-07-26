@@ -46,7 +46,7 @@ export const AzureNAA = () => {
               <ul>
                 <li><strong>(1)</strong> <i>email</i></li>
                 <li><strong>(2)</strong> <i>family_name (last name)</i></li>
-                <li><strong>(3)</strong> <i>givem_name (first name)</i></li>
+                <li><strong>(3)</strong> <i>given_name (first name)</i></li>
               </ul>
               <br />
               <p><b>Does this also affect personal @outlook.com and @hotmail.com accounts?</b></p>
